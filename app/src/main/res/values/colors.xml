@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFF</color>
+    <color name="colorPrimaryDark">#3B3F44</color>
+    <color name="colorAccent">#37ED8A</color>
+    <color name="icon_tab_color">#3B3F44</color>
+    <color name="text_color">#36393D</color>
+    <color name="color_tab_unselected">#C2C3C4</color>
+    <color name="background_color">#E7EAEB</color>
+    <color name="light_text_color">#9A9C9E</color>
+    <color name="light_background">#FBFBFB</color>
+    <color name="consultation_color">#3AED89</color>
+    <color name="gradient_yello">#D9FE5E</color>
+</resources>
